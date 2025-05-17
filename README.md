@@ -9,7 +9,7 @@
 - MCP Playwright ExecuteAutomation:
     - https://github.com/josdoaitran/mcp-web-automation-playwright-cursor/tree/main
     - [https://github.com/executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)
-
+- MCP Collection by me for web automation test: [https://github.com/josdoaitran/mcp-ai-web-automation](https://github.com/josdoaitran/mcp-ai-web-automation)
 ## MCP Mobile automation test
 MCP for covering Mobile automation test
 - [MCP Mobile](https://github.com/mobile-next/mobile-mcp)
