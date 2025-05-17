@@ -3,7 +3,7 @@
 # Ideas to use MCP for Testing
 
 ## MCP excel test case generator
-
+You can refer to [here](./mcp-excel-test-casee-enerator/readme.md)
 ## MCP web automation test
 - MCP Playwright (Microsoft): [https://github.com/microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)
 - MCP Playwright ExecuteAutomation:
