@@ -2,6 +2,9 @@
 - Take advantages of LLM to help us generate test case with a specify template via prompting
 - Integrate MCP to push the generated Test Cases into Excel file, where we use it to manage test cases for a specify project.
 
+How it works:
+![](https://josdoaitran.github.io/assets/images/ai-for-testing/mcp-test-cases/how-claude-mcp-excel-work.png)
+
 # Tools and Setup MCP Server
 - Using Cursor, VSCode with Copilot, Claude
 - Configure MCP for Execel: [https://github.com/negokaz/excel-mcp-server](https://github.com/negokaz/excel-mcp-server)
